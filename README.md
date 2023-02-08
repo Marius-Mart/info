@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Marius
 - 🌱 I’m currently learning data analysis and would like to start career in this field.
-- My other profile: https://app.datacamp.com/profile/MariusM
+- ➡️ My other profile: https://app.datacamp.com/profile/MariusM
