@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Marius
-- 🌱 I’m currently learning data analysis and would like to start career in this field.
-- ➡️ My other profile: https://app.datacamp.com/profile/MariusM
-- :information_source: https://www.linkedin.com/in/mariusmartinaitis/
+- :wave: Hi, I’m Marius
+- :seedling: I’m intrested in data analysis field.
+- :arrow_right: My learning profile: https://app.datacamp.com/profile/MariusM
+- :information_source: Me LinkedIn: https://www.linkedin.com/in/mariusmartinaitis/
